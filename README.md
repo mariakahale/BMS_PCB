@@ -13,11 +13,11 @@ Objectives
 
 Key Responsibilities
 	
- •	System Design:
+System Design:
 	•	Designed the architecture of the BMS, including hardware and software components.
 	•	Selected appropriate sensors, components, and microcontrollers (and created BOM) for monitoring battery parameters from DigiKey based on project requirements.
 
- •	Circuit Design:
+Circuit Design:
 	•	Developed on existing circuit designs using Altium Designer.
 	•	Created PCB layouts, ensuring optimal component placement to facilitate easier battery configuration flexibility.
 	
