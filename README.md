@@ -19,20 +19,24 @@ System Design:
 	•	Selected appropriate sensors, components, and microcontrollers (and created BOM) for monitoring battery parameters from DigiKey based on project requirements.
 
 Circuit Design:
+
 	•	Developed on existing circuit designs using Altium Designer.
 	•	Created PCB layouts, ensuring optimal component placement to facilitate easier battery configuration flexibility.
 	
- •	Firmware Development:
+Firmware Development:
+ 
 	•	Programmed the microcontroller firmware to manage battery charging and discharging cycles (C++/C, Python)
 	•	Implemented communication protocols (CAN) for data exchange between components.
 	•	Fully reprogrammed BMS GUI/dashboard to facilitate researchers' different battery test configurations. 
 	
- •	Testing & Debugging:
+Testing & Debugging:
+ 
 	•	Conducted extensive PCB and software testing to validate system performance and safety features.
 	•	Utilized high-voltage oscilloscopes and multimeters to troubleshoot and optimize circuit designs.
 	•	Logged all test results into extensive research documentation, and conducted thorough project handover for incoming intern.
 	
- •	Data Analysis:
+Data Analysis:
+ 
 	•	Conducted battery-cycling data (using lab battery test equipment) from battery performance tests to improve algorithms for state of charge (SoC) estimations.
 	•	Implemented live data logging for performance metrics using SQL.
 
