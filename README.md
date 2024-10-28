@@ -14,6 +14,7 @@ Objectives
 Key Responsibilities
 	
 System Design:
+
 	•	Designed the architecture of the BMS, including hardware and software components.
 	•	Selected appropriate sensors, components, and microcontrollers (and created BOM) for monitoring battery parameters from DigiKey based on project requirements.
 
